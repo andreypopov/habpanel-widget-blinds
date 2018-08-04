@@ -30,6 +30,6 @@
             "label": "Slider in read only mode",
             "description": "Check it if you are not able to set accurate blinds position"
         }
-    ]//,
-//    "readme_url": "https://community.openhab.org/t/30181"
+    ],
+    "readme_url": "https://community.openhab.org/t/widget-blinds/48834"
 }
